@@ -1,6 +1,14 @@
 # js-bookmarklets
 A collection of custom bookmarklets created by me
 
+## How to add Bookmarklets
+
+1. Open your bookmarks bar (Ctrl+Shift+B in Chrome/Edge/Firefox to toggle it)
+2. Right-click the bookmarks bar and select Add page or New bookmark
+3. Give it a name (e.g. "Google Maps Full Size Photo Extractor")
+4. Paste the JavaScript code into the URL field instead of a web address
+5. Click Save - it'll appear as a clickable button in your bar
+
 ## Google Maps Full Size Photo Extractor
 
 Opens photos from the Google Maps Photo Gallery at their original upload quality and opens the highest resolution of whatever static angle and view of a 360° photo has been selected by the Maps viewer.
